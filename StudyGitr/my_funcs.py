@@ -3,8 +3,8 @@ Created on 13 окт. 2021 г.
 
 @author: Alex
 '''
-def m_square(x):
+def square(x):
     return x * x
 
-def m_cube(x):
+def cube(x):
     return x * x * x
